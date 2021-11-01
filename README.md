@@ -7,3 +7,5 @@ Four programs are created:
 2. Maze solving through A* with motions limited to 1 cell
 3. Maze solving through A* with motions using straight lines
 4. Maze solving through A* with motions using corridors
+
+see if the git is ok
